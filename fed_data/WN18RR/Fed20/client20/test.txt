@@ -1,0 +1,12 @@
+02656763	_hypernym	02649830
+00334186	_hypernym	00140123
+01256157	_hypernym	01659248
+01223182	_derivationally_related_form	13877918
+08081668	_hypernym	08053576
+00158804	_derivationally_related_form	07961480
+07121361	_derivationally_related_form	01046932
+01528821	_hypernym	01421622
+00146138	_hypernym	00109660
+00439958	_hypernym	00151689
+10197967	_derivationally_related_form	02417504
+01566916	_derivationally_related_form	09254614

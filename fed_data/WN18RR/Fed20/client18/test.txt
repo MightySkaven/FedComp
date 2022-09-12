@@ -1,0 +1,12 @@
+02495922	_also_see	02123812
+02121234	_hypernym	01864707
+15265518	_derivationally_related_form	01650610
+12724201	_member_meronym	12724942
+01935476	_derivationally_related_form	04574999
+02159955	_hypernym	01767661
+01725712	_also_see	00853776
+00033020	_derivationally_related_form	00742320
+00772189	_derivationally_related_form	09997404
+00794367	_derivationally_related_form	02531625
+01875295	_derivationally_related_form	00348008
+00838367	_derivationally_related_form	01166351

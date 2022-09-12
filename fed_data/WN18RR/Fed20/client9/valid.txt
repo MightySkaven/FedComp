@@ -1,0 +1,12 @@
+01471070	_member_meronym	01502262
+04202417	_derivationally_related_form	02326355
+13169219	_hypernym	08103777
+14299637	_synset_domain_topic_of	06043075
+08860123	_member_of_domain_region	03173142
+00164201	_hypernym	01631072
+09941964	_derivationally_related_form	02441022
+10741590	_hypernym	00007846
+08102555	_member_meronym	08103777
+00439588	_also_see	01336587
+00017222	_hypernym	00004475
+01635659	_hypernym	01626134

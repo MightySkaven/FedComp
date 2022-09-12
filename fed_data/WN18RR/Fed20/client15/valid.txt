@@ -1,0 +1,16 @@
+04161981	_derivationally_related_form	01543998
+08108972	_synset_domain_topic_of	06037666
+13109733	_hypernym	13104059
+01732713	_synset_domain_topic_of	00543233
+00367976	_derivationally_related_form	01378556
+08176077	_member_meronym	08740875
+00327145	_synset_domain_topic_of	00243918
+00586262	_hypernym	00582388
+14422179	_derivationally_related_form	00205885
+00928077	_derivationally_related_form	01640550
+01471070	_member_meronym	01657723
+01654628	_hypernym	01617192
+00962722	_derivationally_related_form	10527334
+02109818	_verb_group	00358431
+00751145	_derivationally_related_form	02576921
+01656813	_hypernym	08107499

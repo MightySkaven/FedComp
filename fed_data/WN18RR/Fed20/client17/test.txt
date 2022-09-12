@@ -1,0 +1,11 @@
+10207831	_derivationally_related_form	00785962
+03800933	_derivationally_related_form	10340312
+03873064	_hypernym	00021939
+05893653	_hypernym	05833840
+01775879	_hypernym	01342529
+00229280	_synset_domain_topic_of	06084469
+01483324	_derivationally_related_form	05008227
+00430140	_derivationally_related_form	01149470
+00829107	_hypernym	00831651
+07334490	_hypernym	07291312
+07272172	_derivationally_related_form	00971650

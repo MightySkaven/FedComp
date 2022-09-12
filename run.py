@@ -31,7 +31,7 @@ class Runner(object):
 
 		ent_set, rel_set = OrderedSet(), OrderedSet()
 		for split in ['train', 'test', 'valid']:
-			for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
+			for line in open(os.path.join(self.input_path, r'{}.txt'.format(split))):
 				sub, rel, obj = map(str.lower, line.strip().split('\t'))
 				ent_set.add(sub)
 				rel_set.add(rel)
@@ -144,7 +144,13 @@ class Runner(object):
 		
 		"""
 		self.p			= params
-		self.logger		= get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
+		if self.p.fed == False:
+			self.input_path = r'./data/{}'.format(self.p.dataset)
+			self.output_path = self.p.log_dir
+		else:
+			self.input_path = r'./fed_data/{}/Fed{}/client{}'.format(self.p.dataset, self.p.client_num, self.p.user_idx)
+			self.output_path = r'./log/{}/Fed{}/client{}/'.format(self.p.dataset, self.p.client_num, self.p.user_idx)
+		self.logger		= get_logger(self.p.name, self.output_path, self.p.config_dir)
 
 		self.logger.info(vars(self.p))
 		pprint(vars(self.p))
@@ -322,8 +328,8 @@ class Runner(object):
 				for k in range(10):
 					results['hits@{}'.format(k+1)] = torch.numel(ranks[ranks <= (k+1)]) + results.get('hits@{}'.format(k+1), 0.0)
 
-				if step % 100 == 0:
-					self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
+				# if step % 100 == 0:
+				# 	self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
 
 		return results
 
@@ -355,8 +361,8 @@ class Runner(object):
 			self.optimizer.step()
 			losses.append(loss.item())
 
-			if step % 100 == 0:
-				self.logger.info('[E:{}| {}]: Train Loss:{:.5},  Val MRR:{:.5}\t{}'.format(epoch, step, np.mean(losses), self.best_val_mrr, self.p.name))
+			# if step % 100 == 0:
+			# 	self.logger.info('[E:{}| {}]: Train Loss:{:.5},  Val MRR:{:.5}\t{}'.format(epoch, step, np.mean(losses), self.best_val_mrr, self.p.name))
 
 		loss = np.mean(losses)
 		self.logger.info('[Epoch:{}]:  Training Loss:{:.4}\n'.format(epoch, loss))
@@ -414,6 +420,11 @@ if __name__ == '__main__':
 	parser.add_argument('-model',		dest='model',		default='compgcn',		help='Model Name')
 	parser.add_argument('-score_func',	dest='score_func',	default='conve',		help='Score Function for Link prediction')
 	parser.add_argument('-opn',             dest='opn',             default='corr',                 help='Composition Operation to be used in CompGCN')
+	parser.add_argument('-fed', dest='fed', default=False, help='perform federated learning locally')
+	parser.add_argument('-client_num_list', dest='client_num_list', default=[5, 10, 15, 20], help='list of optional client numbers')
+	parser.add_argument('-client_num', dest='client_num', default=5, type=int, help='number of joint clients')
+	parser.add_argument('-user_idx', dest='user_idx', default=1, type=int, help='index of user dataset')
+
 
 	parser.add_argument('-batch',           dest='batch_size',      default=128,    type=int,       help='Batch size')
 	parser.add_argument('-gamma',		type=float,             default=40.0,			help='Margin')

@@ -1,0 +1,12 @@
+06136258	_hypernym	05999797
+00642644	_derivationally_related_form	05802547
+07951464	_derivationally_related_form	02304982
+09275473	_has_part	08929922
+00941990	_derivationally_related_form	07109847
+08462320	_derivationally_related_form	00831651
+02444662	_derivationally_related_form	01139194
+12410715	_member_meronym	12423565
+01556671	_hypernym	01504437
+00841986	_hypernym	00831651
+02670186	_hypernym	04519153
+11575425	_hypernym	11567411

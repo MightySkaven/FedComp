@@ -1,0 +1,12 @@
+00414174	_derivationally_related_form	01252280
+07707451	_hypernym	07705711
+07942152	_member_meronym	00007846
+02442737	_hypernym	02441022
+03764276	_synset_domain_topic_of	08199025
+10206173	_derivationally_related_form	00937208
+07194499	_synset_domain_topic_of	08441203
+11573660	_hypernym	11567411
+09483129	_instance_hypernym	09411430
+08365855	_derivationally_related_form	00408852
+00637259	_synset_domain_topic_of	06000644
+00739662	_derivationally_related_form	08103777

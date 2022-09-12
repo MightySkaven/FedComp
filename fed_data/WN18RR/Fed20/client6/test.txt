@@ -1,0 +1,12 @@
+09209263	_has_part	09370383
+00793785	_derivationally_related_form	10699752
+09316454	_hypernym	09334396
+02460199	_derivationally_related_form	06523132
+10702781	_synset_domain_topic_of	00759694
+01953810	_hypernym	01850315
+01793177	_hypernym	01759326
+11747468	_hypernym	12205694
+00384620	_hypernym	00126264
+01651444	_derivationally_related_form	10438172
+10605985	_hypernym	09632518
+07325190	_derivationally_related_form	02379528

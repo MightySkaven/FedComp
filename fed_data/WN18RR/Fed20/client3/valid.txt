@@ -1,0 +1,11 @@
+01118449	_hypernym	02367363
+14322699	_hypernym	14299637
+02327200	_derivationally_related_form	10677271
+00331950	_hypernym	00191142
+01940403	_hypernym	01835496
+00413876	_derivationally_related_form	00027167
+00331950	_derivationally_related_form	01831531
+09050730	_has_part	09148970
+08103777	_derivationally_related_form	00739662
+01009240	_derivationally_related_form	06722453
+00035758	_derivationally_related_form	03040587

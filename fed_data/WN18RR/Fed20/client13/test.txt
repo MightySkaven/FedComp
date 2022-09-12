@@ -1,0 +1,14 @@
+13580723	_derivationally_related_form	01183573
+02553196	_member_meronym	02565728
+09275473	_has_part	08801678
+08791167	_instance_hypernym	08574314
+09161803	_instance_hypernym	08702402
+02653159	_hypernym	02651424
+00013160	_also_see	01834304
+00729781	_hypernym	00726300
+01881180	_hypernym	01835496
+00015388	_derivationally_related_form	01617192
+12810318	_hypernym	11744859
+09319456	_derivationally_related_form	09319456
+00351638	_derivationally_related_form	00429060
+11561228	_hypernym	11556857

@@ -1,0 +1,11 @@
+08673395	_hypernym	08574314
+14877585	_derivationally_related_form	00442267
+00968211	_derivationally_related_form	07445896
+00170156	_synset_domain_topic_of	06090869
+10467395	_derivationally_related_form	15266265
+09439213	_derivationally_related_form	00036932
+02066939	_hypernym	01831531
+09713501	_hypernym	09641757
+03082979	_synset_domain_topic_of	06128570
+01880673	_verb_group	01880113
+02535909	_hypernym	01432517

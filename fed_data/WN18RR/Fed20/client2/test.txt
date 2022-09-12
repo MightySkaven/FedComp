@@ -1,0 +1,13 @@
+07370671	_derivationally_related_form	01968569
+08441203	_hypernym	07951464
+00544549	_hypernym	00126264
+07197021	_derivationally_related_form	02531625
+03269401	_hypernym	03183080
+00373544	_derivationally_related_form	02397637
+01850315	_verb_group	01835496
+01835496	_derivationally_related_form	09629752
+09275473	_has_part	08780881
+09303647	_instance_hypernym	09403734
+01637982	_derivationally_related_form	05808218
+13518963	_hypernym	00029677
+11665781	_member_meronym	11562747

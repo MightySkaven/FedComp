@@ -1,0 +1,12 @@
+11566230	_hypernym	11562747
+00829107	_derivationally_related_form	10694258
+01725051	_derivationally_related_form	10340312
+01983771	_hypernym	00109660
+10794014	_hypernym	09610660
+02116118	_derivationally_related_form	07514345
+07183151	_derivationally_related_form	00775156
+07018931	_derivationally_related_form	01719921
+00831651	_hypernym	00740577
+00396703	_synset_domain_topic_of	06084469
+00306426	_derivationally_related_form	01846916
+02718469	_hypernym	03740161

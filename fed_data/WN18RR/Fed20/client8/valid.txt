@@ -1,0 +1,16 @@
+02204692	_derivationally_related_form	10389398
+02008041	_hypernym	02000954
+07048000	_hypernym	07037465
+01846916	_derivationally_related_form	00295701
+08107499	_synset_domain_topic_of	06037666
+02129289	_hypernym	02106506
+02609764	_derivationally_related_form	07291312
+13122364	_hypernym	13121544
+00621734	_derivationally_related_form	05685030
+00153263	_hypernym	00126264
+01529036	_hypernym	01504437
+08932568	_instance_hypernym	08691669
+11779300	_hypernym	12205694
+14441825	_derivationally_related_form	02646931
+06084469	_derivationally_related_form	09913824
+01194938	_hypernym	00126264

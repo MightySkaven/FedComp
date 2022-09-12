@@ -1,0 +1,12 @@
+02163982	_hypernym	01342529
+09629752	_hypernym	00007846
+01883212	_hypernym	01862557
+09206985	_derivationally_related_form	01921964
+11665781	_hypernym	08103777
+08991182	_instance_hypernym	09316454
+05496990	_hypernym	05462674
+01745780	_hypernym	01657723
+02431971	_derivationally_related_form	08164585
+06479665	_hypernym	06470073
+01874126	_member_meronym	01883212
+00351638	_derivationally_related_form	00151689

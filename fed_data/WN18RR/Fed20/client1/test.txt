@@ -1,0 +1,13 @@
+00007846	_hypernym	00004475
+00710005	_derivationally_related_form	08164585
+12996225	_member_meronym	13038944
+07557434	_hypernym	07570720
+01946408	_synset_domain_topic_of	00815801
+09275473	_has_part	08952190
+00954271	_hypernym	00831651
+02700867	_derivationally_related_form	00318735
+12684640	_hypernym	11534677
+00515154	_hypernym	00137313
+00426928	_hypernym	00407535
+01471070	_member_meronym	01625747
+01675963	_derivationally_related_form	03169390

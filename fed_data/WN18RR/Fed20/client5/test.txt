@@ -1,0 +1,11 @@
+14151139	_hypernym	14070360
+02188065	_hypernym	01342529
+01938850	_hypernym	08107499
+00903559	_derivationally_related_form	03925226
+01186578	_synset_domain_topic_of	08441203
+08307589	_hypernym	07975026
+10284064	_derivationally_related_form	00142191
+00786195	_hypernym	00407535
+00320852	_derivationally_related_form	02502536
+00219012	_derivationally_related_form	01325536
+06845599	_hypernym	06333653

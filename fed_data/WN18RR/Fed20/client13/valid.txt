@@ -1,0 +1,14 @@
+13265011	_derivationally_related_form	02474239
+02461723	_also_see	01116380
+12212810	_member_meronym	11585340
+01659248	_derivationally_related_form	00237078
+01507175	_hypernym	08108972
+09610660	_hypernym	00007846
+14544335	_hypernym	13920835
+02400139	_hypernym	01862557
+08176077	_member_meronym	09044862
+09334396	_derivationally_related_form	02022486
+01096497	_derivationally_related_form	00548173
+10123844	_synset_domain_topic_of	08199025
+02016523	_derivationally_related_form	00049003
+00986938	_hypernym	00972621

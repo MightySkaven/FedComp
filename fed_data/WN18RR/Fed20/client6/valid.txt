@@ -1,0 +1,11 @@
+02154508	_derivationally_related_form	09626589
+08246613	_member_meronym	10340312
+01374767	_derivationally_related_form	00278221
+02244956	_derivationally_related_form	01110274
+00471711	_hypernym	01619929
+10339966	_derivationally_related_form	07020895
+02329733	_hypernym	02327200
+01524885	_hypernym	01342529
+01612084	_hypernym	01494310
+00467717	_hypernym	02511551
+00191142	_derivationally_related_form	00126264

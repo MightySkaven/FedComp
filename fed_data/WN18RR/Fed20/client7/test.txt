@@ -1,0 +1,12 @@
+05703429	_derivationally_related_form	02154508
+09044862	_has_part	09141526
+14419164	_derivationally_related_form	02622234
+01332205	_hypernym	01296462
+11592146	_hypernym	08108972
+02622234	_derivationally_related_form	14419164
+01369663	_also_see	00956131
+07109847	_derivationally_related_form	00983824
+01494310	_hypernym	01850315
+05462674	_hypernym	05225602
+00033615	_hypernym	00002137
+00681429	_hypernym	00670261

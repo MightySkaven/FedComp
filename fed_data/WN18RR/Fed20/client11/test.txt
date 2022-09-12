@@ -1,0 +1,11 @@
+01719921	_synset_domain_topic_of	07006119
+06498569	_hypernym	06497459
+09189411	_has_part	08698379
+07963711	_derivationally_related_form	01385170
+02154508	_hypernym	02163746
+00612160	_synset_domain_topic_of	06043075
+02958343	_hypernym	03791235
+01054545	_derivationally_related_form	02649830
+06128570	_synset_domain_topic_of	03082979
+08459252	_derivationally_related_form	00660571
+09605289	_hypernym	00007846

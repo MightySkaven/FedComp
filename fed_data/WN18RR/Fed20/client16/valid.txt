@@ -1,0 +1,12 @@
+06090869	_derivationally_related_form	10428004
+01183573	_hypernym	01182709
+00849294	_derivationally_related_form	10621514
+02649689	_hypernym	01429349
+12226322	_hypernym	11565385
+00713167	_derivationally_related_form	00031921
+02333368	_hypernym	01864707
+05770926	_derivationally_related_form	00628491
+01921204	_hypernym	01904930
+01083077	_derivationally_related_form	02294436
+02172888	_derivationally_related_form	07387509
+02387486	_derivationally_related_form	00611433

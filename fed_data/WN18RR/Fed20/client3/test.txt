@@ -1,0 +1,11 @@
+00315986	_derivationally_related_form	02077656
+01698271	_derivationally_related_form	10794014
+04552696	_hypernym	04194289
+12804866	_hypernym	11744859
+00394813	_derivationally_related_form	07374756
+07810907	_hypernym	07809368
+00955060	_synset_domain_topic_of	08199025
+01770501	_hypernym	01767949
+10560637	_hypernym	00007846
+02679899	_hypernym	02681795
+11544769	_hypernym	08220891
